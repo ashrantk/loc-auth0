@@ -7,8 +7,6 @@
     "Log In With Twitter" : "Log In With Twitter",
     "Sign Up With Facebook" : "Sign Up With Facebook",
     "Log In With Facebook" : "Log In With Facebook",
-    "Sign Up With Apple" : "Sign Up With Apple",
-    "Log In With Apple" : "Log In With Apple",
     "OR" : "OR",
     "First Name" : "First Name",
     "Last Name" : "Last Name",
@@ -24,6 +22,5 @@
     "Please enter the email address that is associated with your StockX account." : "Please enter the email address that is associated with your StockX account.",
     "Reset Password" : "Reset Password",
     "Decline" : "Decline",
-    "I Acknowledge" : "I Acknowledge",
-    "Updates To Our Privacy Policy and Terms & Conditions" : "Updates To Our Privacy Policy and Terms & Conditions"
+    "I Acknowledge" : "I Acknowledge"
 }
